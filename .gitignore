@@ -1,0 +1,20 @@
+# Ignore system-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files and session data
+log/
+sessions/
+
+# Ignore user-specific files
+config.php
+
+# Ignore composer dependencies
+/vendor/
+
+# Ignore database configuration
+database.php
+
+# Ignore IDE configuration files
+.idea/
+.vscode/
